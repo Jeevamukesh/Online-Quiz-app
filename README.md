@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Jeevamukesh
-- 👀 I’m interested in Code Development
-- 🌱 I’m currently learning Computer Science & Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Jeevamukesh/Jeevamukesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Basically Online quiz app is used for testing our general knowledge.
+College students were attended online quiz by a separate online quiz app in COVID-19 pandemic period.
+We can create this app in Python language by using Pywebio & Flask modules.
+Install pywebio
+        pip install pywebio
+Install Flask
+        pip install flask
